@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PiQuiz</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="how_many_zeros_are_there_in_a_googol">How many zeros are there in a googol?</string>
+    <string name="finish">Finish</string>
+</resources>
